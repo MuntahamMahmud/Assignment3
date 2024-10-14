@@ -1,0 +1,2 @@
+gui_2210130_pkg
+-DCATKIN_DEVEL_PREFIX=/home/muntaham/Assignment3/devel -DCMAKE_INSTALL_PREFIX=/home/muntaham/Assignment3/install -G Unix Makefiles
